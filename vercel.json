@@ -1,0 +1,25 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/:path*/:file.mjs",
+      "destination": "https://framerusercontent.com/sites/5DkOFTpzztDZPstI94IHjB/:file.mjs"
+    },
+    {
+      "source": "/:file.mjs",
+      "destination": "https://framerusercontent.com/sites/5DkOFTpzztDZPstI94IHjB/:file.mjs"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
+    }
+  ]
+}
