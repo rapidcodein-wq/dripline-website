@@ -1,3 +1,3 @@
-Root page saved at: rawline.framer.website/index.html
+Root page saved at: rapidcode.in/index.html
 
-This site was downloaded using the Website Downloader Chrome Extension (https://chromewebstore.google.com/detail/website-downloader/iaaokenmfgahhlcfbdipjonlkeinadaa)
+This site was rebranded and customized for DripLine.
